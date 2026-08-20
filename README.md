@@ -2,7 +2,7 @@
 
 Implementasi Q-learning tabular (tanpa neural network) pada environment `FrozenLake-v1`
 dari `gymnasium`, sebagai studi fondasi sebelum mempelajari algoritma Deep Q-Network (DQN)
-seperti yang dipakai pada `ReinforcementAgent` di repo **Stock-MARL**.
+seperti yang dipakai pada `ReinforcementAgent` di repo [**Stock-MARL**](https://github.com/peiyan03/Stock-MARL).
 
 ## Tujuan
 
