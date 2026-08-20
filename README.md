@@ -44,7 +44,7 @@ jupyter notebook qlearning_frozenlake.ipynb
 Jalankan seluruh cell secara berurutan. Notebook bersifat self-contained — tidak
 memerlukan dependensi atau file eksternal lain.
 
-## Kaitan dengan Stock-MARL (`main.py`)
+## Kaitan dengan Repo [Stock-MARL](https://github.com/peiyan03/Stock-MARL) (`main.py`)
 
 Notebook ini adalah versi "sebelum Deep" dari algoritma yang sama dipakai untuk melatih
 `ReinforcementAgent` pada simulasi multi-agent pasar saham di repo Stock-MARL:
