@@ -62,4 +62,4 @@ Memahami update rule di repo ini membuat parameter DQN pada `main.py` (`target_u
 
 ## Lisensi
 
-Belum ditentukan — tambahkan berkas `LICENSE` sesuai kebutuhan sebelum publikasi repo.
+Project ini dilisensikan di bawah [MIT License](LICENSE).
