@@ -47,7 +47,7 @@ memerlukan dependensi atau file eksternal lain.
 ## Kaitan dengan Repo [Stock-MARL](https://github.com/peiyan03/Stock-MARL) (`main.py`)
 
 Notebook ini adalah versi "sebelum Deep" dari algoritma yang sama dipakai untuk melatih
-`ReinforcementAgent` pada simulasi multi-agent pasar saham di repo Stock-MARL:
+`ReinforcementAgent` pada simulasi multi-agent pasar saham di repo [Stock-MARL](https://github.com/peiyan03/Stock-MARL):
 
 | | Q-learning tabular (repo ini) | DQN (`main.py`, Stock-MARL) |
 |---|---|---|
